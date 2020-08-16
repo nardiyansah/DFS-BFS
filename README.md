@@ -8,3 +8,11 @@ Jika kamu belum mengerti tentang algoritma DFS dan BFS kamu bisa melihat video i
 
 [![DFS](http://i3.ytimg.com/vi/Y40bRyPQQr0/hqdefault.jpg)](https://www.youtube.com/watch?v=Y40bRyPQQr0)
 [![BFS](http://i3.ytimg.com/vi/0u78hx-66Xk/hqdefault.jpg)](https://www.youtube.com/watch?v=0u78hx-66Xk&t=65s)
+
+## :sparkles: Hal yang keren di propgram ini
+Jika kamu menjalankan program ini kamu akan mendapatkan gambar yang menunjukkan solusi dari masalah.
+
+Kamu bisa mengganti nama gambar yang akan dihasilkan dengan mengubah parameternya.
+```python
+m.output_image("ganti_nama_file.png")
+```
