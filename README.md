@@ -5,4 +5,4 @@ Repo ini berisi kode program dalam bahasa python yang menerapkan penggunaan algo
 
 ## :grey_question: Algoritma DFS dan BFS
 Jika kamu belum mengerti tentang algoritma DFS dan BFS kamu bisa melihat video ini. **Perlu dicatat! video dibawah akan menerangkan menggunakan Graph, bagaimanapun algoritma ini bisa digunakan di Tree**
-[!DFS[http://i3.ytimg.com/vi/Y40bRyPQQr0/hqdefault.jpg]](https://www.youtube.com/watch?v=Y40bRyPQQr0)
+[!DFS(http://i3.ytimg.com/vi/Y40bRyPQQr0/hqdefault.jpg)](https://www.youtube.com/watch?v=Y40bRyPQQr0)
