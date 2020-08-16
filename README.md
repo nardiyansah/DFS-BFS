@@ -16,3 +16,6 @@ Kamu bisa mengganti nama gambar yang akan dihasilkan dengan mengubah parameterny
 ```python
 m.output_image("ganti_nama_file.png")
 ```
+
+Defaultnya gambar yang dihasilkan hanya menampilkan state solusi saja, seperti ini :arrow_down:
+![gambar default](https://github.com/nardiyansah/DFS-BFS/blob/master/maze.png)
